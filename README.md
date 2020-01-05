@@ -32,3 +32,6 @@ where input file is in the following format (see example.net):
 # Testing
 
 Unit tests are available in test_main.c
+
+# Author
+Youssef Zmarou
